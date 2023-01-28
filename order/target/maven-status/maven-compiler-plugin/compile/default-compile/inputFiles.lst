@@ -1,0 +1,11 @@
+/Users/gulnar/Downloads/parentSercive/order/src/main/java/com/company/order/OrderApplication.java
+/Users/gulnar/Downloads/parentSercive/order/src/main/java/com/company/order/dto/OrderRequest.java
+/Users/gulnar/Downloads/parentSercive/order/src/main/java/com/company/order/config/WebClientConfig.java
+/Users/gulnar/Downloads/parentSercive/order/src/main/java/com/company/order/controller/OrderController.java
+/Users/gulnar/Downloads/parentSercive/order/src/main/java/com/company/order/entity/Order.java
+/Users/gulnar/Downloads/parentSercive/order/src/main/java/com/company/order/repository/OrderRepo.java
+/Users/gulnar/Downloads/parentSercive/order/src/main/java/com/company/order/dto/OrderLineItemsDto.java
+/Users/gulnar/Downloads/parentSercive/order/src/main/java/com/company/order/entity/OrderLineItems.java
+/Users/gulnar/Downloads/parentSercive/order/src/main/java/com/company/order/dto/OrderResponse.java
+/Users/gulnar/Downloads/parentSercive/order/src/main/java/com/company/order/dto/InventoryResponse.java
+/Users/gulnar/Downloads/parentSercive/order/src/main/java/com/company/order/service/OrderSevice.java

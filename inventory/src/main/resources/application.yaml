@@ -4,7 +4,7 @@ spring:
   name: inventory-service
   datasource:
     url: jdbc:postgresql://${DB_HOST_NAME:localhost}:${DB_PORT:5432}/${DB_NAME:inventory}?createDatabaseIfNotExist=true
-    password: 123456
+    password:
     username:
     driver-class-name: org.postgresql.Driver
   jpa:
